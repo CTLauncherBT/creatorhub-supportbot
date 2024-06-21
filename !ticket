@@ -1,0 +1,6 @@
+$nomention
+$title[Ticket]
+$description[
+If you need support or help, then open a backup ticket!]
+$newSelectMenu[ticket;1;1;Help | Support Menu]
+$addSelectMenuOption[ticket;Support & Help;Support & Help;Support & Help | Powered by CreatorHub]

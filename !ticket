@@ -1,6 +1,6 @@
 $nomention
 $title[Ticket]
 $description[
-Du brauchst Hilfe oder Support, öffne ein Ticket!]
-$newSelectMenu[ticket;1;1;Help | Support Menu]
+Du brauchst Hilfe oder Support, dann öffne ein Ticket!]
+$newSelectMenu[ticket;1;1;Hilfe | Support Menu]
 $addSelectMenuOption[ticket;Support & Help;Support & Help;Support & Help | Powered by CreatorHub]

@@ -5,7 +5,7 @@ $newTicket[KategorieID;Warte auf einen Supporter;Hallo <@$authorID>!
 Sende  
  
 🎟️TicketSupport🎟️
-{subject};Ware auf
+{subject};Warte auf
 Support in
 {channel};**error** Warte einen momen für ein Supporter!]
 $color[$random[1;99999]]

@@ -1,0 +1,24 @@
+$nomention
+$if[$message==Support & Help]
+$newTicket[KategorieID;Wait for a Support;Hello <@$authorID>!
+
+Send us your question
+ 
+🎟️TicketSupport🎟️
+{subject};Wait for a
+Supporter in
+{channel};**error** Wait a moment for a support!]
+$color[$random[1;99999]]
+$endif
+ 
+$if[$message==❓Ask | ❓Support]
+$newTicket[KategorieID;Wait for a Support;Hello <@$authorID>!
+ 
+Send us your question
+ 
+🎟️TicketSupport🎟️
+{subject};Wait for a 
+support in
+{channel};**error** Wait a moment for a support!]
+$color[$random[1;99999]]
+$endif

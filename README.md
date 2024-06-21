@@ -1,4 +1,6 @@
 # Support-Bot | Discord Template
 
-Gehe zu $inTeraction[!ticket]
+Code Language: BDScript 2
+
+Gehe zu $onInteraction[!ticket]
 und ersetze KategorieID durch deine Support-Kategorie ID
